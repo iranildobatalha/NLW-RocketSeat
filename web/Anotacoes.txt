@@ -1,0 +1,5 @@
+>npx create-react-app web --template=typescript
+>cd web
+>npm start
+>npm install react-icons
+>npm install react-router-dom
