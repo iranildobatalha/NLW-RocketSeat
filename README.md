@@ -13,7 +13,8 @@ Para o Back-end criei uma API Restful para lidar com os dados. E para o banco de
 
 Para executar o servidor localmente execute no terminal:
 
->cd server<
+>cd server
+
 >npm run dev<
 
 ## Plataforma Web
@@ -24,6 +25,7 @@ Para o desenvolvimento do site foi utilizado o React com o apoio de API Restful 
 Para executar a aplicação Web no browser basta executar os seguintes comandos no terminal:
 
 >cd web
+
 >npm start
 
 ## Plataforma Mobile
@@ -34,6 +36,7 @@ Para o desenvolvimento do App foi utilizado React Native com apoio de uma API Re
 Para executar a aplicação mobile execute no terminal:
 
 >cd mobile
+
 >npm start
 
 # Arquitetura
