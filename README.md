@@ -13,8 +13,8 @@ Para o Back-end criei uma API Restful para lidar com os dados. E para o banco de
 
 Para executar o servidor localmente execute no terminal:
 
->cd server
->npm run dev
+>cd server<
+>npm run dev<
 
 ## Plataforma Web
 
